@@ -21,6 +21,10 @@ This repository contains two main components: a **financial data analysis** and 
 
 ## <span style="font-size: 1.5em;">Limitations</span>
 
+## Screenshot
+
+![Chatbot Interface](./scripts/testbot.png)
+
 - The chatbot only provides information on **Microsoft, Apple, and Tesla**.
 - It responds to queries about **revenue, net income, and growth**.
 
