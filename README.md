@@ -29,4 +29,8 @@ Python 3.x
 Pandas
 NumPy
 
+<<<<<<< HEAD
 For any questions or issues, please contact.
+=======
+For any questions or issues, please contact.
+>>>>>>> 025f27b8a08a512d6801c482ce724978a8a8f1dd
